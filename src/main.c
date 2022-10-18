@@ -4,7 +4,7 @@
   * @author  Weili An
   * @version V1.0
   * @date    Oct 10, 2022
-  * @brief   ECE 362 Lab 5 Solution
+  * @brief   ECE 362 Lab 5 template
   ******************************************************************************
 */
 
